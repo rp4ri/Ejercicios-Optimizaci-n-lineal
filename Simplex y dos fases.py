@@ -2,7 +2,7 @@
 """
 Created on Wed Sep 15 00:07:16 2021
 
-@author: TELMA
+@author: rp4ri
 """
 
 import numpy as np
